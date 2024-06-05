@@ -5,9 +5,9 @@ const publicIp = require("public-ip");
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
-const TOKEN = process.env.TOKEN;
-const CHANNEL = process.env.CHANNEL;
-const INTERVAL = process.env.INTERVAL;
+const TOKEN = process.env.MTI0Nzk0MTAxMjc3MzUzOTk4MQ.GEs9vG.LGzW9Km-cOMSwxF_eww6QQ-WWO2poOE4RhMtL4;
+const CHANNEL = process.env.1247918075144179772;
+const INTERVAL = process.env.INTERVAL=2000;
 
 bot.login(TOKEN);
 
